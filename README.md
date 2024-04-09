@@ -8,5 +8,7 @@ Since 2008 I have been working with information technology in order to evolve
 
 personally and professionally along with others who participated in my teams.
 
-Currently actively involved as a co-supervisor in a master's degree project that utilises Python. This project aligns with my commitment to staying at the forefront of technological advancements.
+Currently actively involved as a co-supervisor in a master's degree project that utilises Python. 
+
+This project aligns with my commitment to staying at the forefront of technological advancements.
 
