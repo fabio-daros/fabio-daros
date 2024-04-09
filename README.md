@@ -12,3 +12,5 @@ Currently actively involved as a co-supervisor in a master's degree project that
 
 This project aligns with my commitment to staying at the forefront of technological advancements.
 
+![fabio-daros's Stats](https://github-readme-stats.vercel.app/api?username=fabio-daros&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) 
+![fabio-daros's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-daros&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
